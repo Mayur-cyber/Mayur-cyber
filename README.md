@@ -1,7 +1,7 @@
  ![logo](https://github.com/Mayur-cyber/Mayur-cyber/blob/main/Black%20and%20White%20Modern%20Clean%20Professional%20Programmer%20LinkedIn%20Background.png)
 <h1 align="center">Hi 👋, I'm Mayur Khanna</h1>
 <h3 align="center">🚀 I am a passionate AI engineer and full-stack developer dedicated to building innovative AI-driven fintech SaaS solutions. 💡  </h3>
-<img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right"alt="coding"width="300"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 👨‍💻 All of my projects are available at [cosmic-sorbet-06b7f5.netlify.app](cosmic-sorbet-06b7f5.netlify.app)
 - 📫 How to reach me **+91 8527717110**,**mayurkhanna667@gmail.com**
